@@ -86,27 +86,7 @@ AAROGYAVARDHINI/
 ## Live Website
  https://aarogyavardhini.life
 
----
 
-## Key Learnings
 
-* End-to-end website deployment
-* GitHub integration with hosting platforms
-* Domain configuration and linking
-* Understanding real-world deployment workflow
 
----
 
-##  Future Improvements
-
-* Improve responsiveness
-* Enhance UI/UX
-* Add more dynamic features
-
----
-
-## Conclusion
-
-This project reflects a complete journey from development to deployment, making the website accessible globally with a custom domain.
-
----
